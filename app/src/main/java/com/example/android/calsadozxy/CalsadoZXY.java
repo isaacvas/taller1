@@ -50,6 +50,6 @@ public class CalsadoZXY extends AppCompatActivity {
     }
 
     public void calcular (View v){
-        
+
     }
 }
