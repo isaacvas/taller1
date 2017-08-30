@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FootwearZXY</string>
+    <string name="calcular">Calculate</string>
+    <string name="cantidad">Quantity</string>
+    <string name="comprar">Buy</string>
+    <string name="marca">Mark</string>
+    <string name="sexo">Sex</string>
+    <string name="tipo_zapatos">kind of shoes</string>
+    <string name="titulo">Buy Shoes</string>
+    <string name="valor_a_pagar">Amount to be Paid</string>
+    <string name="mujer">Woman</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="adidas">Adidas</string>
+    <string name="clasico">classic</string>
+    <string name="hombre">Man</string>
+    <string name="zapatilla">Shoe</string>
+</resources>

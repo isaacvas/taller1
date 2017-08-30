@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CalzadoZXY</string>
+    <string name="titulo">Comprar Zapatos</string>
+    <string name="sexo">Sexo</string>
+    <string name="tipo_zapatos">Tipo De Zapatos</string>
+    <string name="marca">Marca</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="valor_a_pagar">Valor a Pagar</string>
+    <string name="calcular">Calcular</string>
+    <string name="comprar">Comprar</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="clasico">Clasico</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="mensaje_error_uno">Digite el número cantidad</string>
+    <string-array name="sexo">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+    <string-array name="tipo_zapatos">
+        <item>@string/clasico</item>
+        <item>@string/zapatilla</item>
+    </string-array>
+    <string-array name="marca">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+
+</resources>
